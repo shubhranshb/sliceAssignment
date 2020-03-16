@@ -1,4 +1,4 @@
-###### Pre Request
+## Pre Request
 1. Python 3 and pip3 is installed in your machine
 To install pip3 use the link: https://pip.pypa.io/en/stable/installing/
 
@@ -7,11 +7,11 @@ You can run the command  **python get-pip.py** in project directory as file is i
 Check pip3 command to verify everything is installed
 
 
-**Assumptions**
+## Assumptions
 
 I have converted all the arguments to lower case so that there is no confusion in the word case.
 
-###### Steps to run
+## Steps to run
 1. run the following command in the project folder
   **sudo pip3 install -r requirement.txt**
  
