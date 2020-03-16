@@ -10,7 +10,7 @@ Check pip3 command to verify everything is installed
 ## Assumptions
 
 1. I have converted all the arguments to lower case so that there is no confusion in the word case.
-2. All the arguments will be stripped of space character and hence will be treated as a single word.
+2. All the arguments will be stripped of space character(leading and trailing whitespace characters) and hence will be treated as a single word.
 3. All the APIs will return in HTTP code as 200, but will have a common key "status" to inform if the operation is successful or not.
 
 
